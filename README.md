@@ -74,7 +74,6 @@ Make sure to install these libraries using the following command:
 pip install pandas plotly folium
 ```
 
-
 ## Usage
 
 To use the code snippets, follow these steps:
