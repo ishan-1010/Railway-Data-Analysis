@@ -82,7 +82,7 @@ To use the code snippets, follow these steps:
 2. Make sure you have the required libraries installed.
 3. Run each code snippet individually and observe the output.
 
-Please note that the code snippets assume the presence of specific input files (CSV, JSON, GeoJSON) in the specified file paths. Make sure to adjust the file paths accordingly or provide the correct file paths to avoid any errors.
+Please note that the code snippets assume the presence of specific input files (CSV, JSON, GeoJSON) in the specified file paths. Make sure to adjust the file paths accordingly or provide the correct file paths to avoid any errors. 
 
 Feel free to modify and customize the code snippets according to your requirements.
 
