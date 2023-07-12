@@ -18,7 +18,7 @@ This repository contains code snippets for analyzing railway data using Python a
 
 ### Visualization of Station Data
 
-This code snippet reads a CSV file containing station data and visualizes the stations on a map using the `folium` library. It filters out stations with missing coordinates and creates circle markers for each station with tooltips.
+This code snippet reads a CSV file containing station data and visualizes the stations on a map using the `folium` library. It filters out stations with missing coordinates and creates circle markers for each station with tooltips. 
 
 ### Train Count by Zone
 
